@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+C:\Users\andy8\OneDrive\桌面\大資料\code\CPP\Body_Temperature\Body_Temperature\MyForm.h(211,1): error C2440: '=': 無法由 'const wchar_t [7]' 轉換為 'System::Windows::Forms::Label ^'
+C:\Users\andy8\OneDrive\桌面\大資料\code\CPP\Body_Temperature\Body_Temperature\MyForm.h(211,1): message : 原因: 無法從 'const wchar_t *'轉換為 'System::Windows::Forms::Label ^'
+C:\Users\andy8\OneDrive\桌面\大資料\code\CPP\Body_Temperature\Body_Temperature\MyForm.h(211,1): message : 沒有使用者定義的轉換運算子，或
+C:\Users\andy8\OneDrive\桌面\大資料\code\CPP\Body_Temperature\Body_Temperature\MyForm.h(211,17): message : 無法將原生類型轉換為 受控 類型
+  TurnExcel.cpp
+C:\Users\andy8\OneDrive\桌面\大資料\code\CPP\Body_Temperature\Body_Temperature\MyForm.h(211,1): error C2440: '=': 無法由 'const wchar_t [7]' 轉換為 'System::Windows::Forms::Label ^'
+C:\Users\andy8\OneDrive\桌面\大資料\code\CPP\Body_Temperature\Body_Temperature\MyForm.h(211,1): message : 原因: 無法從 'const wchar_t *'轉換為 'System::Windows::Forms::Label ^'
+C:\Users\andy8\OneDrive\桌面\大資料\code\CPP\Body_Temperature\Body_Temperature\MyForm.h(211,1): message : 沒有使用者定義的轉換運算子，或
+C:\Users\andy8\OneDrive\桌面\大資料\code\CPP\Body_Temperature\Body_Temperature\MyForm.h(211,17): message : 無法將原生類型轉換為 受控 類型
+  正在產生程式碼...
